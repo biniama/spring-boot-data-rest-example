@@ -1,9 +1,7 @@
 # spring-boot-data-rest-example
 A sample spring boot project for learning spring boot data rest
 
-Implementation of [https://spring.io/guides/gs/accessing-data-rest/]Accessing JPA Data with REST
-
-
+Implementation of [Accessing JPA Data with REST | https://spring.io/guides/gs/accessing-data-rest/]
 
 # CURL requests
 ```json
